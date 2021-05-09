@@ -1,0 +1,43 @@
+.touch-editor {
+  background: black;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.screen-reference {
+  background: #003366;
+  position: absolute;
+}
+
+.manual-editor {
+  background: #003366;
+  color: #6495ed;
+  position: absolute;
+}
+
+.menu {
+  background: #003366;
+  position: absolute;
+}
+
+.menu-row {
+  background: #1a66ff;
+  border-radius: 2px;
+}
+
+.menu-button {
+  background: #6495ed;
+  border-width: 0px;
+  border-radius: 2px;
+  font-family: "Times New Roman";
+  padding: 0px;
+}
+
+.export-overlay {
+  background: brown;
+  position: absolute;
+  border-width: 5px;
+  border-color: #1a66ff;
+  background: #6495ed;
+}
